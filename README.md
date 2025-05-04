@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a 16 y.o junior programming enthusiast from Kaliningrad. Mostly I do web-development, but also I'm interested in other spheres. Besides programming I'm keen on foreign languages.
+I'm a 17 y.o junior programming enthusiast from Kaliningrad. Mostly I do web-development, but also I'm interested in other spheres. Besides programming I'm keen on foreign languages.
 </br></br>
 ~~Currently I'm working on [Notes Web App](https://github.com/jezmunh/NotesApp-Web).~~
 # Technologies
