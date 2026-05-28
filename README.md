@@ -5,6 +5,7 @@ Greetings! I'm Danila Emelyanov and I'm aspiring both frontend developer and pol
 
 My stack is:
 - TypeScript
+- Zustand
 - React
 
 I speak these languages:
