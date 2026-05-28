@@ -13,7 +13,7 @@ I speak these languages:
 - Russian (Native)
 - Belarusian (B2)
 
-Hey! I also have a project tailored for englighting audience about endangered languages problem. This definitely worths checking ▼
+Hey! I also have a project tailored for audience enlightment about endangered languages problem. This definitely worths checking ▼
 
 https://lehf.jezmunh.name/
 
