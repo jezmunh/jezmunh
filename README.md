@@ -12,4 +12,8 @@ I speak these languages:
 - Russian (Native)
 - Belarusian (B2)
 
+Hey! I also have a project tailored for englighting audience about endangered languages problem. This definitely worths checking ▼
+
+https://lehf.jezmunh.name/
+
 <img src="https://i.pinimg.com/1200x/b7/5f/bf/b75fbf1ec056f27f8811f8300b360288.jpg" style="width: 300px; height: 300px;" />
